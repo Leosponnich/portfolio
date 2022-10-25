@@ -1,0 +1,7 @@
+
+
+ny react fil:
+gå til hovedmappen npx create-react-app navn
+
+installere pakker i react
+npm install @sanity/client @sanity/image-url framer-motion node-sass react-icons
